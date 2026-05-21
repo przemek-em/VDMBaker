@@ -2,6 +2,8 @@
 
 Standalone native Win32 Vector Displacement Map baker for OBJ meshes. It writes uncompressed RGBA32F `.exr` files and has no third-party runtime dependencies.
 
+![Image](screenshot.png)
+
 ## Features
 
 - Single-mesh exact UV XYZ bake.
